@@ -1,7 +1,7 @@
 # Tofunmi Omiye
 <div id ="bio">
   <div style="padding: 2em; margin: 1em;">
-    <img src = "/tofunmi_headshot.jpg" alt="Tofunmi Headshot" width="500">
+    <img src = "https://github.com/ezimosai/tofunmi/blob/main/tofunmi_headshot.jpg" alt="Tofunmi Headshot" width="500">
   </div>
   <div>
   <p>Hi! I am Tofunmi and I'm currently a postdoctoral scholar at Stanford University. Here I work in the Daneshjou and Zaba Labs under the departments of Dermatology and Biomedical Data Science. Specifically, I work at the nexus of artificial intelligence, healthcare, and policy. My research covers computer vision, foundation models, and AI bias. Some of my projects have been published in journals like Nature Digital Medicine and featured in media outlets like the Washington Post and AP news.
