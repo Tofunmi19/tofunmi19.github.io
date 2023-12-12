@@ -1,5 +1,7 @@
-# Tofunmi Omiye
+<head> # Tofunmi Omiye
 <script src="https://kit.fontawesome.com/d6ed1ca8e1.js" crossorigin="anonymous"></script>
+</head>
+<body>
 <div id ="bio">
   <div style="padding: 2em; margin: 1em;">
     <img src = "https://github.com/ezimosai/tofunmi/blob/main/tofunmi_headshot.jpg" alt="Tofunmi Headshot" width="500">
@@ -78,3 +80,4 @@ Journal of the National Medical Association, 2020</li>
     <li>“The landscape of Medical research in Africa.” The World Pre-Health Conference, Mar 2021</li>
   </ul>
 </div>
+</body>
