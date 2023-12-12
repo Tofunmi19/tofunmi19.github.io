@@ -1,4 +1,5 @@
 # Tofunmi Omiye
+<script src="https://kit.fontawesome.com/d6ed1ca8e1.js" crossorigin="anonymous"></script>
 <div id ="bio">
   <div style="padding: 2em; margin: 1em;">
     <img src = "https://github.com/ezimosai/tofunmi/blob/main/tofunmi_headshot.jpg" alt="Tofunmi Headshot" width="500">
@@ -14,7 +15,7 @@ Feel free to reach out to me for collaborations, talks, or consulting.
   <div> 
 <h3> Contact </h3>
   <p> Email: tomiye at stanford dot edu 	<br>
-LinkedIn: <a href = "https://www.linkedin.com/in/tofunmi-omiye-50634158/" > https://www.linkedin.com/in/tofunmi-omiye-50634158/ </a> 	<br>
+<a href = "https://www.linkedin.com/in/tofunmi-omiye-50634158/" > <img src="https://fontawesome.com/icons/linkedin?f=brands&s=solid"></a> 	<br>
 Google Scholar: <a href ="https://scholar.google.com/citations?hl=en&user=MghdLwUAAAAJ">  https://scholar.google.com/citations?hl=en&user=MghdLwUAAAAJ </a><br>
 Github: <a href = "https://github.com/Tofunmi19/" > https://github.com/Tofunmi19/ </a> <br>
 </p>
