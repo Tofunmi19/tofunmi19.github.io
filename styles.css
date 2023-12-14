@@ -8,12 +8,14 @@ h4 {font-family: Hedvig Letters Serif, serif;
                         color: #161B22;}
 p, ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;}
 a {font-family: inherit;
-  color: #551A8B;}
+  color: #ff5349;}
 .divspace {padding: 0% 2%;
     margin-bottom: 1%;}
 body {background-color: #f1f1f1;}
 #bio {text-align: center;
      margin-top: 2%;}
+#bio i {color: #ff5349;
+       }
 #headshot {width: 100%;
           text-align: center;}
 .tof_wide {
@@ -30,8 +32,8 @@ nav ul li {
 }
 
 nav li a {
-    border-right: 1px solid #000000;
-  padding-right: 2%;
+    border-right: 1px solid #ff5349;
+  padding: 0% 2%;
 }
 
 nav li:last-child a {
