@@ -9,7 +9,7 @@ h4 {font-family: Hedvig Letters Serif, serif;
 p,  {font-family: "Afacad", "Helvetica", Arial, sans-serif;
             font-size: 1.15em;}
 ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;
-            font-size: 1em;}
+            font-size: 1.15em;}
 a {font-family: inherit;
   color: #ff5349;}
 
@@ -25,7 +25,8 @@ body {background-color: #f1f1f1;}
        }
 
 #bio p {padding: 0% 10%;
-       }
+       font-family: "Afacad", "Helvetica", Arial, sans-serif;
+            font-size: 1.15em;}
 
 #headshot {width: 100%;
           text-align: center;}
