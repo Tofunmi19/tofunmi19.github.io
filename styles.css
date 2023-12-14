@@ -14,3 +14,15 @@ body {background-color: #f1f1f1;}
   height: 400px;
   border-radius: 100%;
 }
+
+.nav ul {
+  list-style-type: none;
+}
+
+nav > li > a {
+    border-right: 1px solid #000000;
+}
+
+nav > li:last-child > a {
+    border-right: 0;
+}
