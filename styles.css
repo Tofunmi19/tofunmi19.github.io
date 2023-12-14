@@ -86,7 +86,7 @@ footer p, a {
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 600px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 600px) {
   p,ul,li {font-size: 24px;}
   a {font-size: inherit;}
   h2 {font-size: 36px}
@@ -94,6 +94,6 @@ footer p, a {
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (max-width: 768px) {
-  p,ul,li {font-size: 24px;}
+@media only screen and (min-device-width: 601px) (max-device-width: 768px) {
+  p,ul,li {font-size: 18px;}
 }
