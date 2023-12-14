@@ -88,7 +88,8 @@ footer p, a {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-device-width: 320px) and (max-device-width: 600px) {
   p,ul,li {font-size: 28px;}
-  a {font-size: inherit;}
+  a {font-size: inherit;
+    font-family: inherit;}
   h2 {font-size: 36px}
   h3 {font-size: 30px}
   #bio p {font-size: 24px;}
