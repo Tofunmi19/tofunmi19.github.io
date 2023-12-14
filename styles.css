@@ -11,7 +11,7 @@ p,  {font-family: "Afacad", "Helvetica", Arial, sans-serif;
 ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;
             font-size: 1em;}
 a {font-family: "Afacad", "Helvetica", Arial, sans-serif;
-  color: #ff5349;}
+  color: #f5f5dc;}
 
 .divspace {padding: 1% 20%;
     margin-bottom: 1%;}
@@ -21,7 +21,7 @@ body {background-color: #f1f1f1;}
 #bio {text-align: center;
      margin-top: 2%;}
 
-#bio i {color: #C70039;
+#bio i {color: #f5f5dc;
         padding: 2%;
        }
 
@@ -80,7 +80,7 @@ tofpad {
   padding: 2%;
 }
 
-footer p, a {
+.footers p, a {
   font-family: Hedvig Letters Serif, serif;
   text-align: center;
 }
