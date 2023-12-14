@@ -1,7 +1,5 @@
-<head> # Tofunmi Omiye
-<script src="https://kit.fontawesome.com/d6ed1ca8e1.js" crossorigin="anonymous"></script>
-</head>
-<body>
+# Tofunmi Omiye
+
 <div id ="bio">
   <div style="padding: 2em; margin: 1em;">
     <img src = "https://github.com/ezimosai/tofunmi/blob/main/tofunmi_headshot.jpg" alt="Tofunmi Headshot" width="500">
@@ -25,7 +23,7 @@ Github: <a href = "https://github.com/Tofunmi19/" > https://github.com/Tofunmi19
 </div>
 </div>
 <div id = "News">
-  <h2> News and Updates </h2>
+  <h2> News </h2>
   <ul> 
   <li> 11/17/23 Honored to be speaking at the San Francisco Dermatology Society Conference. </li>
   <li> 11/11/23 Glad to be speaking at the 6th West Africa-Taiwan Health Promotion summit on the potential for Generative AI in healthcare with an African focus.
@@ -80,4 +78,4 @@ Journal of the National Medical Association, 2020</li>
     <li>“The landscape of Medical research in Africa.” The World Pre-Health Conference, Mar 2021</li>
   </ul>
 </div>
-</body>
+
