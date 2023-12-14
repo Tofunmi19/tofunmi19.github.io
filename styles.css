@@ -29,10 +29,11 @@ nav ul li {
   display: inline;
 }
 
-nav > li > a {
+nav li a {
     border-right: 1px solid #000000;
+  padding-right: 2%;
 }
 
-nav > li:last-child > a {
+nav li:last-child a {
     border-right: 0;
 }
