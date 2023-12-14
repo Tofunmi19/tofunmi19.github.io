@@ -56,26 +56,31 @@ nav li:last-child a {
     border-right: 0;
 }
 
-#news {
+#News ul {
   padding-bottom: 2%;
   border-bottom: 1px solid black;
 }
 
-#Selected_Publications {
+#Selected_Publications ul{
   padding-bottom: 2%;
   border-bottom: 1px solid black;
 }
 
-#Select_Media_Features {
+#Select_Media_Features ul{
   padding-bottom: 2%;
   border-bottom: 1px solid black;
 }
 
-#talks {
+#talks ul{
   padding-bottom: 2%;
   border-bottom: 1px solid black;
 }
 
 tofpad {
   padding: 2%;
+}
+
+footer {
+  font-family: inherit;
+  text-align: center;
 }
