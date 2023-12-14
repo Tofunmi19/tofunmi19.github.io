@@ -87,10 +87,13 @@ footer {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  1em: 24px;
+  p,ul,li {font-size: 24px;}
+  a {font-size: inherit;}
+  h2 {font-size: 36px}
+  h3 {font-size: 30px}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  1em: 18px;
+  p,ul,li {font-size: 24px;}
 }
