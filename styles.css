@@ -14,7 +14,7 @@ a {font-family: inherit;
 body {background-color: #f1f1f1;}
 #bio {text-align: center;
      margin-top: 2%;}
-#bio i {color: #ff5349;
+#bio i {color: #C70039;
        }
 #headshot {width: 100%;
           text-align: center;}
@@ -32,8 +32,9 @@ nav ul li {
 }
 
 nav li a {
-    border-right: 1px solid #ff5349;
+    border-right: 1px solid #C70039;
   padding: 0% 2%;
+  font-family: Hedvig Letters Serif, serif;
 }
 
 nav li:last-child a {
