@@ -15,8 +15,12 @@ body {background-color: #f1f1f1;}
   border-radius: 100%;
 }
 
-.nav ul {
+nav ul {
   list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
 }
 
 nav > li > a {
