@@ -8,8 +8,9 @@ div {padding: 2%;
 body {background-color: #f1f1f1;}
 #bio {text-align: center;
      margin: 0, auto;}
-#headshot {width: 60%;
+#headshot {width: 75%;
           text-align: center;}
 .tof_wide {
-  border-radius: 50px;
+  width: 400px;
+  border-radius: 50%;
 }
