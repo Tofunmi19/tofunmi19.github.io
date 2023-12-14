@@ -13,7 +13,7 @@ ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;
 a {font-family: inherit;
   color: #ff5349;}
 
-.divspace {padding: 2% 20%;
+.divspace {padding: 1% 20%;
     margin-bottom: 1%;}
 
 body {background-color: #f1f1f1;}
@@ -54,6 +54,26 @@ nav li a {
 
 nav li:last-child a {
     border-right: 0;
+}
+
+#news {
+  padding-bottom: 2%;
+  border-bottom: 1px solid black;
+}
+
+#Selected_Publications {
+  padding-bottom: 2%;
+  border-bottom: 1px solid black;
+}
+
+#Select_Media_Features {
+  padding-bottom: 2%;
+  border-bottom: 1px solid black;
+}
+
+#talks {
+  padding-bottom: 2%;
+  border-bottom: 1px solid black;
 }
 
 tofpad {
