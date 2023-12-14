@@ -80,7 +80,7 @@ tofpad {
   padding: 2%;
 }
 
-footer {
+footer p, a {
   font-family: Hedvig Letters Serif, serif;
   text-align: center;
 }
