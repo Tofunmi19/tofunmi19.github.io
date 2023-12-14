@@ -1,6 +1,12 @@
-h1, h2, h3, h4, h5, h6, {font-family: Palatino, "Palatino Linotype", "Times New Roman", Times, serif;
+h1, h2, h3, h4, h5, h6, {font-family: "Hedvig Letters Serif", "Merriweather", "Times New Roman", Times, serif;
                         color: #161B22;}
-p {font-family: Roboto, "Helvetica Neue", "Helvetica", Arial, sans-serif;}
-a {font-family: inherit;}
-div {padding: 5%;}
-body {background-color: #faebd7;}
+p {font-family: "Afacad", "Helvetica", Arial, sans-serif;}
+a {font-family: inherit;
+  color: #551A8B;}
+div {padding: 2%;
+    margin-bottom: 1%}
+body {background-color: #f1f1f1;}
+#bio {text-align: center;
+     margin: 0, auto;}
+#headshot {width: 60%;
+          border-radius: 25px;}
