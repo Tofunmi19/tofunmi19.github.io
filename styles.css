@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, {font-family: 'Hedvig Letters Serif', "Merriweather", "Times New Roman", Times, serif;
+h1, h2, h3, h4, h5, h6, {font-family: 'Hedvig Letters Serif', serif;
                         color: #161B22;}
 p, ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;}
 a {font-family: inherit;
@@ -7,7 +7,7 @@ a {font-family: inherit;
     margin-bottom: 1%;}
 body {background-color: #f1f1f1;}
 #bio {text-align: center;
-     margin: 0, auto;}
+     margin-top: 2%;}
 #headshot {width: 100%;
           text-align: center;}
 .tof_wide {
