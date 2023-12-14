@@ -1,6 +1,6 @@
-h1, h2, h3, h4, h5, h6, {font-family: "Hedvig Letters Serif", "Merriweather", "Times New Roman", Times, serif;
+h1, h2, h3, h4, h5, h6, {font-family: "Hedvig+Letters+Serif", "Merriweather", "Times New Roman", Times, serif;
                         color: #161B22;}
-p {font-family: "Afacad", "Helvetica", Arial, sans-serif;}
+p, ul, li {font-family: "Afacad", "Helvetica", Arial, sans-serif;}
 a {font-family: inherit;
   color: #551A8B;}
 div {padding: 2%;
@@ -9,4 +9,7 @@ body {background-color: #f1f1f1;}
 #bio {text-align: center;
      margin: 0, auto;}
 #headshot {width: 60%;
-          border-radius: 25px;}
+          text-align: center;}
+.tof_wide {
+  border-radius: 50px;
+}
