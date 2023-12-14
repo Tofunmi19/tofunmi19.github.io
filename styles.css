@@ -91,6 +91,9 @@ footer p, a {
   a {font-size: inherit;}
   h2 {font-size: 36px}
   h3 {font-size: 30px}
+  #bio p {font-size: 24px;}
+  .divspace {padding: 1% 10%;
+    margin-bottom: 1%;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
