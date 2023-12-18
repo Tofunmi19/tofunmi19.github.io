@@ -125,11 +125,11 @@ tofpad {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
-        url('../fonts/academicons.ttf') format('truetype'),
-        url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+    src:url('https://github.com/ezimosai/tofunmi/blob/main/academicons.eot');
+    src:url('https://github.com/ezimosai/tofunmi/blob/main/academicons.eot') format('embedded-opentype'),
+        url('https://github.com/ezimosai/tofunmi/blob/main/academicons.ttf') format('truetype'),
+        url('https://github.com/ezimosai/tofunmi/blob/main/academicons.woff') format('woff'),
+        url('https://github.com/ezimosai/tofunmi/blob/main/academicons.svg') format('svg');
 }
 .ai {
   font-family: 'Academicons';
